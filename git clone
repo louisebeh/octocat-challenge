@@ -1,1 +1,1 @@
-'Git Clone' is used to copy an existing Git repository. IA short-cut for several commands, it automatically creates  & initialises the cloned dir, creates a remote connection named origin and pulls all of the cloned information; in  one command - very convenient!
+'Git Clone' is used to copy an existing Git repository. A short-cut for several commands, it automatically creates & initialises the cloned dir, creates a remote connection named origin and pulls all of the cloned information to your local repo. All in one command - very convenient!
