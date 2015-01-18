@@ -1,1 +1,2 @@
-Explain what the upstream remote is usually used for, in your own words
+The upstream remote is a record, on your computer, that is linked to a remote repo on the internet or a network. It is used to store code locally until you are ready to push the code 'upstream' to its linked remote repository. 
+
